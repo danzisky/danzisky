@@ -11,7 +11,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-[![Top Langs](https:/github-readme-stats-danzisky.vercel.app/api/top-langs/?username=danzisky&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-danzisky.vercel.app/api/top-langs/?username=mohammad6vakili&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Highlights
