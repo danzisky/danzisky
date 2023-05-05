@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![](https://komarev.com/ghpvc/?username=danzisky&color=blueviolet)
 
 ### Thanks for visiting my Git profile.
