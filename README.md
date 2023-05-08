@@ -28,10 +28,10 @@
 
 
 
-#### Experienced senior back-end developer with more than 4 years of experience in implementing large-scale projects. Implementation of projects with different technologies based on project requirements.
+#### Experienced senior full-stack developer with more than 4 years of experience in implementing large-scale projects. Implementation of projects with different technologies based on project requirements.
   
-#### A deep understanding of the architecture required for a high-speed, bug-free application.
-#### Ability to communicate in English and work in a team from different parts of the world.
+#### A deep understanding of the architecture required for a high-speed, reliable bug-free applications.
+#### Ability to communicate in English and Romanian and collaborate with teams from different parts of the world.
 #### For any remote cooperation, you can send a direct message through LinkedIn or contact me through email.
 
 #### Linkedin address: https://ng.linkedin.com/in/daniel-nwaeke-4807a61b0
